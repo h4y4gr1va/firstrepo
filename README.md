@@ -1,4 +1,5 @@
 # firstrepo
 this is my first repository<br>
 
-author-sayan halder
+Author-Sayan Halder
+
